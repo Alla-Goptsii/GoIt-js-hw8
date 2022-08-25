@@ -5,8 +5,6 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 // Change code below this line
 
-console.log(galleryItems);
-
 const currentContainer = document.querySelector('.gallery');
 const cardsGallery = addItemCard(galleryItems);
 
